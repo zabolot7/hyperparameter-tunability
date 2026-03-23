@@ -1,0 +1,1 @@
+This project focuses on analysing the hyperparameter tunability of various machine learning models. It was created in the 2025/2026 winter semester by Hanna Szczerbińska, [Paula Wołkowska](https://github.com/pwolkowska) and [Helena Wałachowska](https://github.com/helena26-ai) as part of the AutoML course @ WUT. 
